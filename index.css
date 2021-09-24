@@ -12,6 +12,7 @@ body{
     line-height: 35px;
     padding: 25px;
     padding-top: 0px;
+    box-shadow: 4px 4px purple;
     
 }
 .header p{
@@ -32,6 +33,7 @@ body{
 }
 .box{
     text-shadow: 1px 1.1px 2px brown;
+    box-shadow: 4px 4px purple;
 }
 
 .box1{
@@ -107,6 +109,7 @@ body{
     height: 56px;
     background-color: greenyellow;
     visibility: visible;
+    box-shadow: 4px 4px purple;
 }
 .menu1{
     position: absolute;
